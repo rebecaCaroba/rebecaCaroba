@@ -1,7 +1,7 @@
 <div>
   <img src="https://scontent.cdninstagram.com/v/t51.82787-15/570362130_18089411498500634_8176830732038459195_n.webp?_nc_cat=101&ig_cache_key=Mzc1Mjc0MDgwODY2NDYzOTA1NQ%3D%3D.3-ccb1-7&ccb=1-7&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTQ0MC5zZHIuQzIifQ%3D%3D&_nc_ohc=VZevhR9BgxoQ7kNvwHRCOwV&_nc_oc=AdkUXO5nlbFdyYiWQbNa9rr-GDJhstixt9n9qPJ1l_5dY7WMQIq53odBxGs2Lcfis5WuK2Y2IFJ2unUHLTcO4c_f&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=NruDnQIfq94uF1fjaH-0oA&oh=00_AfcQ8Nmz96sE7qwcMu0DCqRJuROTbqcF02zbxqXAYTRkfg&oe=6905659C" width="200" height="200" alt="Profile Picture" />
   
-  ### Hi 👋! I'm <b>Rebeca</b>
+  ### Hi! 👋 I'm <b>Rebeca</b>
   <p>💻 Front-End Developer | 🌱 Always learning and creating</p>
 </div>
 
